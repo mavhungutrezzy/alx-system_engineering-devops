@@ -1,2 +1,1 @@
-
-Write a script that displays a confused smiley "(Ôo)'.
+Shell, I/O Redirections and filters
